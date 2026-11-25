@@ -11,3 +11,7 @@ Das Homelab besteht aus mehreren Diensten, die mit Docker Compose betrieben werd
 ## Geplant für Version 2
 
 - **Pi-hole:** DNS-Server, der Werbung und Tracker im Netzwerk blockiert
+
+### Startseite
+
+[Zurück zur Startseite](../index.md)
