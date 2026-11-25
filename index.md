@@ -4,5 +4,5 @@ Diese Seite beschreibt mein **Homelab**, ein Lernprojekt im Bereich Plattforment
 
 ## Inhalt
 
-- [Einrichtung](docs/setup.md)
-- [Funktionen](docs/features.md)
+- [Einrichtung](docs/setup.md): Voraussetzungen und Schritte, um das Homelab zu nutzen
+- [Funktionen](docs/features.md): Übersicht der Dienste
