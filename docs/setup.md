@@ -18,7 +18,7 @@
    ```
 3. Repository klonen und in den Ordner wechseln:
    ```bash
-   git clone https://github.com/dein-username/homelab.git
+   git clone https://github.com/Da-Marlon/homelab.git
    cd homelab
    ```
 4. Alle Dienste starten:
